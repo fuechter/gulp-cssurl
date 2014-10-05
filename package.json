@@ -1,0 +1,26 @@
+{
+  "name": "gulp-cssurl",
+  "description": "A plugin to systematically replace URLs in CSS code",
+  "homepage": "https://github.com/alexandref93/gulp-cssurl",
+  "repository": "alexandref93/gulp-cssurl",
+  "author": "Carlos Alexandre Fuechter <alexandref94@gmail.com> (http://fuechter.com.br)",
+  "tags": [
+    "gulpplugin",
+    "cssurl"
+  ],
+  "version": "1.0.0",
+  "dependencies": {
+    "cssurl": "^1.0.1",
+    "event-stream": "~3.1.7",
+    "gulp-util": "~3.0.0"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/alexandref93/gulp-cssurl/blob/master/LICENSE"
+    }
+  ]
+}
